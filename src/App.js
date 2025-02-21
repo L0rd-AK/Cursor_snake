@@ -241,8 +241,8 @@ const App = () => {
               fontSize: '2rem',
             }}
           >
-            <p>Click "Start Game" to begin</p>
-            <button onClick={startGame} style={{ padding: '10px 20px', fontSize: '1.5rem' }}>
+            <p style={{ fontSize: '1.5rem' }}>Click "Start Game" to begin</p>
+            <button onClick={startGame} style={{ padding: '5px 10px', fontSize: '1.5rem' }}>
               Start Game
             </button>
           </div>
