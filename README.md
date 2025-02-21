@@ -1,6 +1,6 @@
-## Cursor snake a fun game
+# Cursor snake a fun game
 Just built this fun mouse-controlled Snake Game in 5 minutes using prompt engineering with DeepSeek R1! 🚀 The game is made with React.js and leverages useState, useEffect, and requestAnimationFrame for smooth movement and interactions. It features a countdown timer, food mechanics, collision detection, and a simple scoring system. This showcases the power of AI-assisted development in rapid prototyping. Check it out!
-#Live-link: https://cursor-snake.vercel.app
+# Live-link: https://cursor-snake.vercel.app
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
